@@ -37,7 +37,6 @@ store.subscribe(update);
 // store.dispatch({type: 'INC'})
 // console.log(store.getState());
 
-
 // store.subscribe(() => {
 
 // })
